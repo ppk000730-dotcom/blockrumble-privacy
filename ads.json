@@ -1,1 +1,1 @@
-{"runsPerAd": 30, "classicClearsPerAd": 30, "minGapSec": 3600, "graceRuns": 30, "graceHours": 168, "dailyCap": 1}
+{"runsPerAd": 10, "classicClearsPerAd": 10, "minGapSec": 360, "graceRuns": 3, "graceHours": 24, "dailyCap": 8}
